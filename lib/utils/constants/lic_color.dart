@@ -9,7 +9,6 @@ class LicAppColor{
   static const Color textPrimary = Color(0xFF070707);
   static const Color textSecondary = Color(0xFFFFFFFF);
   static const Color textThird = Color(0xFF54EBFF);
-  static const Color textFourth = Color(0xFF34f699);
 
   // other colors
   static const Color lightGrey = Color(0xFF5B5B5E);
